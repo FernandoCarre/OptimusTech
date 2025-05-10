@@ -1,0 +1,73 @@
+:root {
+    --cor-do-fundo: #FFFFFF;
+    --cor-do-nome-da-empresa: #3A404E;
+    --cor-dos-links-menu: #667085;
+    --cor-do-link-botao-menu: #FFFFFF;
+    --cor-dos-destaques: #8E2424;
+    --cor-do-titulo-subtitulos: #101828; 
+    --cor-do-texto: #667085;  
+    --cor-do-texto-rodape: #98A2B3;
+    --cor-do-fundo-botao-menu-rodape: #8E2424;
+    --fonte-principal: 'Inter';
+}
+
+
+body {
+    color: var(--cor-do-fundo);
+    font-family: 'Inter';
+    width: 100%;
+}
+
+.cabecalho {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    height: 500%;
+    padding: 1.1em 5em;
+}
+
+.cabecalho__comeco {
+    display: flex;
+    /*gap: .5em;*/
+    gap: 8px;
+
+}
+
+.cabecalho__meio {
+    display: flex;
+    justify-content: center;
+    margin-right: 23.7em;
+    /*gap: 2em;*/
+    gap: 32px;
+}
+
+.cabecalho__fim {
+    display: flex;
+    align-items: center;
+    /*gap: .7em;*/
+    gap: 12px;
+}
+
+.nome__empresa {
+    font-size: 1.1em;
+    font-weight: 500;
+    color: var(--cor-do-nome-da-empresa);
+}
+
+.link__menu {
+    font-size: 1em;
+    font-weight: 500;
+    color: var(--cor-dos-links-menu);
+}
+
+.botao__menu {
+    padding: 0.6em 1.1em;
+    background-color: var(--cor-do-fundo-botao-menu-rodape);
+    border-radius: .5em;
+    color: var(--cor-do-link-botao-menu);
+}
+
+p {
+    color: black;
+}
