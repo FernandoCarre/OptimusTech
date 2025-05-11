@@ -11,9 +11,8 @@
     --fonte-principal: 'Inter';
 }
 
-
 body {
-    color: var(--cor-do-fundo);
+    background-color: var(--cor-do-fundo);
     font-family: 'Inter';
     width: 100%;
 }
@@ -29,23 +28,19 @@ body {
 
 .cabecalho__comeco {
     display: flex;
-    /*gap: .5em;*/
     gap: 8px;
-
 }
 
 .cabecalho__meio {
     display: flex;
     justify-content: center;
     margin-right: 23.7em;
-    /*gap: 2em;*/
     gap: 32px;
 }
 
-.cabecalho__fim {
+.cabecalho__fim{
     display: flex;
     align-items: center;
-    /*gap: .7em;*/
     gap: 12px;
 }
 
@@ -55,7 +50,7 @@ body {
     color: var(--cor-do-nome-da-empresa);
 }
 
-.link__menu {
+a {
     font-size: 1em;
     font-weight: 500;
     color: var(--cor-dos-links-menu);
@@ -68,6 +63,30 @@ body {
     color: var(--cor-do-link-botao-menu);
 }
 
-p {
-    color: black;
+.conteudo {
+    text-align: center;
+    padding-top: 96px;
+}
+
+.conteudo span {
+    color: var(--cor-dos-destaques);
+    font-size: 1rem;
+    font-weight: 600;
+    margin-bottom: 24px;
+}
+
+.conteudo h1 {
+    color: var(--cor-do-titulo-subtitulos);
+    font-size: 3rem;
+    font-weight: 600;
+    margin-bottom: 24px;
+}
+
+.conteudo p {
+    color: var(--cor-do-texto);
+    font-size: 20px;
+    font-weight: 1.2rem;
+    line-height: 30px;
+    margin: 0 auto;
+    max-width: 791px;
 }
