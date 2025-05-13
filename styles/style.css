@@ -117,3 +117,34 @@ a {
     max-width: 280px;
     line-height: 24px;
 }
+
+.conteudo.talentos {
+    margin-top: 96px;
+}
+
+.conteudo.talentos span {
+    background-color: rgb(142, 36, 36, .1);
+    border-radius: 16px;
+    padding: .2em .7em;
+    font-size: .8rem;
+    font-weight: 500;
+}
+
+.conteudo.talentos h2 {
+    font-size: 2.2rem;
+    font-weight: 600;
+    line-height: 44px;
+    color: var(--cor-do-titulo-subtitulos);
+}
+
+.conteudo.talentos p {
+    font-size: 1.2rem;
+    font-weight: 400;
+    line-height: 30px;
+    margin-bottom: 64px;
+}
+
+.conteudo.talentos img {
+    max-width: 90%;
+}
+
