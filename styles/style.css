@@ -8,6 +8,7 @@
     --cor-do-texto: #667085;  
     --cor-do-texto-rodape: #98A2B3;
     --cor-do-fundo-botao-menu-rodape: #8E2424;
+    --cor-da-borda: #EAECF0;
     --fonte-principal: 'Inter';
 }
 
@@ -148,3 +149,43 @@ a {
     max-width: 90%;
 }
 
+.vagas {
+  max-width: 40%;
+  margin: 0 auto;
+  min-width: 45%;
+}
+
+.vagas div {
+    margin-top: 4rem;
+}
+
+.vagas h3 {
+    font-size: 1.2rem;
+    font-weight: 500;
+    color: var(--cor-do-titulo-subtitulos);
+    line-height: 30px;
+    margin-bottom: 2rem;
+}
+
+.vagas ul {
+    list-style-type: none;
+    border-radius: 16px;
+    padding: 1.5rem;
+    border: 1px solid var(--cor-da-borda);
+    max-width: 768px;
+}
+
+.vagas li {
+    font-size: 1.1rem;
+    font-weight: 500;
+    color: var(--cor-do-titulo-subtitulos);
+    margin-bottom: 32px;
+}
+
+.vagas p {
+    display: inline;
+    font-size: 1rem;
+    font-weight: 500;
+    color: var(--cor-do-texto);
+    margin-right: 24px;
+}
