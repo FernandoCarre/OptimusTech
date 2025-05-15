@@ -146,13 +146,14 @@ a {
 }
 
 .conteudo.talentos img {
+    width: 1280px;
     max-width: 90%;
 }
 
 .vagas {
-  max-width: 40%;
+  width: 768px;
+  max-width: 90%;
   margin: 0 auto;
-  min-width: 45%;
 }
 
 .vagas div {
@@ -172,7 +173,6 @@ a {
     border-radius: 16px;
     padding: 1.5rem;
     border: 1px solid var(--cor-da-borda);
-    max-width: 768px;
 }
 
 .vagas li {
@@ -188,4 +188,42 @@ a {
     font-weight: 500;
     color: var(--cor-do-texto);
     margin-right: 24px;
+}
+
+.depoimentos {
+    width: 1280px;
+    max-width: 100%;
+    margin: 0 auto;
+}
+
+.depoimentos div {
+    padding: 4rem;
+    background-color: rgb(195, 25, 25, .03);
+    margin-bottom: 96px;
+}
+
+.depoimentos span {
+    font-size: .8rem;
+    font-weight: 600;
+    line-height: 20px;
+}
+
+.depoimentos h2 {
+    font-size: 2.2rem;
+    font-weight: 500;
+    line-height: 44px;
+}
+
+.depoimentos > div > p:nth-child(4) {
+    font-size: 1rem;
+    font-weight: 500;
+    line-height: 24px;
+    padding: 16px 0 4px;
+    color: var(--cor-do-titulo-subtitulos);
+}
+
+.depoimentos p {
+    font-size: .8rem;
+    font-weight: 400;
+    line-height: 20px;
 }
