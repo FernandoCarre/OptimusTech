@@ -29,12 +29,12 @@ As técnicas e tecnologias utilizadas pra isso são:
 
 Se quiser, você também pode conferir cada dia do desafio:
 
-- [Confira o primeiro dia do desafio neste commit](https://github.com/FernandoCarre/OptimusTech/commit/b42baa48901b38909d73fecd7cdfa2e8b35543fe)<br>
-- [Confira o segundo dia do desafio neste commit](https://github.com/FernandoCarre/OptimusTech/commit/173f1fee73f5c77e52c91e883e9a1714ca0cc8c7)<br>
-- [Confira o terceiro dia do desafio neste commit](https://github.com/FernandoCarre/OptimusTech/commit/9e98e9804acafc5fa6a10e3bae95a3a410840bf5)<br>
-- [Confira o quarto dia do desafio neste commit](https://github.com/FernandoCarre/OptimusTech/commit/96171c92aa55580c98b1f37ab130c5a1c295911c)<br>
-- [Confira o quinto dia do desafio neste commit](https://github.com/FernandoCarre/OptimusTech/commit/6549e1cfda702c053ff9a78c4fe420f246908a7f)<br>
-- [Confira o sexto dia do desafio neste commit](https://github.com/FernandoCarre/OptimusTech/commit/42b820c693d1e8e0c0547bd9b5fa8f9d2a08c234)
+- [Confira o primeiro dia do desafio](https://github.com/FernandoCarre/OptimusTech/commit/b42baa48901b38909d73fecd7cdfa2e8b35543fe)<br>
+- [Confira o segundo dia do desafio](https://github.com/FernandoCarre/OptimusTech/commit/173f1fee73f5c77e52c91e883e9a1714ca0cc8c7)<br>
+- [Confira o terceiro dia do desafio](https://github.com/FernandoCarre/OptimusTech/commit/9e98e9804acafc5fa6a10e3bae95a3a410840bf5)<br>
+- [Confira o quarto dia do desafio](https://github.com/FernandoCarre/OptimusTech/commit/96171c92aa55580c98b1f37ab130c5a1c295911c)<br>
+- [Confira o quinto dia do desafio](https://github.com/FernandoCarre/OptimusTech/commit/6549e1cfda702c053ff9a78c4fe420f246908a7f)<br>
+- [Confira o sexto dia do desafio](https://github.com/FernandoCarre/OptimusTech/commit/42b820c693d1e8e0c0547bd9b5fa8f9d2a08c234)
 
 ## 📁 Acesso ao projeto
 
