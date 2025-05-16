@@ -1,3 +1,5 @@
+/* PROPRIEDADES PERSONALIZADAS */
+
 :root {
     --cor-do-fundo: #FFFFFF;
     --cor-do-nome-da-empresa: #3A404E;
@@ -12,11 +14,15 @@
     --fonte-principal: 'Inter';
 }
 
+/* CORPO DA PÁGINA */
+
 body {
     background-color: var(--cor-do-fundo);
     font-family: 'Inter';
     width: 100%;
 }
+
+/* CABEÇALHO */
 
 .cabecalho {
     display: flex;
@@ -64,6 +70,8 @@ a {
     color: var(--cor-do-link-botao-menu);
 }
 
+/* PRIMEIRA SESSÃO - SOBRE NÓS */
+
 .conteudo {
     text-align: center;
     padding-top: 96px;
@@ -92,6 +100,8 @@ a {
     max-width: 791px;
 }
 
+/* SEGUNDA SESSÃO - DADOS */
+
 .dados {
     display: flex;
     justify-content: center;
@@ -118,6 +128,8 @@ a {
     max-width: 280px;
     line-height: 24px;
 }
+
+/* TERCEIRA SESSÃO - TALENTOS */
 
 .conteudo.talentos {
     margin-top: 96px;
@@ -149,6 +161,8 @@ a {
     width: 1280px;
     max-width: 90%;
 }
+
+/* QUARTA SESSÃO - VAGAS */
 
 .vagas {
   width: 768px;
@@ -190,6 +204,8 @@ a {
     margin-right: 24px;
 }
 
+/* QUINTA SESSÃO - DEPOIMENTOS */
+
 .depoimentos {
     width: 1280px;
     max-width: 100%;
@@ -229,8 +245,16 @@ a {
     line-height: 20px;
 }
 
+/* RODAPÉ */
+
 footer {
     background-color: #F9FAFB;
+}
+
+.rodape {
+    width: 832px;
+    max-width: 90%;
+    margin: 0 auto;
 }
 
 .rodape h2 {
